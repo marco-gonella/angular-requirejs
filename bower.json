@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-requirejs",
+  "description": "none",
+  "main": "server.js",
+  "authors": [
+    "MarcoGonella"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "domReady": "requirejs-domready#^2.0.1",
+    "require-css": "^0.1.10",
+    "requirejs-plugins": "^1.0.3",
+    "requirejs": "^2.3.3",
+    "angular": "angularjs#^1.6.4"
+  }
+}
