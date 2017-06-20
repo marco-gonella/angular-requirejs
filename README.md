@@ -21,5 +21,5 @@
   
   Use widgets folder to create new components.
   
-  Use core.js to require new widgets. 
+  Use **core.js** to require new widgets. 
 
