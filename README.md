@@ -7,11 +7,13 @@
     
    * **Framework js:** [Angularjs](https://angularjs.org/)
     
+    
 ## Installation and Execution
  
   Install npm and bower dipendencies: **npm install** and **bower install** in folder directory.
   
   Run this node: **npm start**
+ 
  
 ## Pro tips:
  
