@@ -25,7 +25,11 @@
  
   Install and use [Nodemon](https://nodemon.io/) to run this project.
   
+  Use **bower** to import new modules into project.
+  
   Use widgets folder to create new components.
   
   Use **core.js** to require new widgets. 
+  
+  
 
