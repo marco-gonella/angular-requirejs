@@ -1,11 +1,11 @@
 
   This project use:
   
-    * **Package Manager:** [Bower](https://bower.io/)
+    * Package Manager: [Bower](https://bower.io/)
     
-    * **Module Loader:** [Requirejs](http://requirejs.org/)
+    * Module Loader: [Requirejs](http://requirejs.org/)
     
-    * **Framework js:** [Angularjs](https://angularjs.org/)
+    * Framework js: [Angularjs](https://angularjs.org/)
     
 ## Installation and Execution
  
